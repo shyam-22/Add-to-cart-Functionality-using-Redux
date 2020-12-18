@@ -1,0 +1,24 @@
+.cart-wrapper{
+    height: 100px;
+    width: 100px;
+    border-color: 1px solid red;
+}
+
+.img-wrapper img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.cart-wrapper item {
+        margin-top: 20px;
+        position: absolute;
+        border-radius: 10px;
+        background-color: red;
+        color: blanchedalmond;
+        padding: 10px;
+    }
+
+/* .img-wrapper cart{
+        
+    } */
